@@ -1,4 +1,5 @@
-global-signals.json
 {
-  "belgiumListedCompanies": 215
+  "belgiumListedCompanies": 215,
+  "globalERPMarketEuro": 62000000000,
+  "globalAIAdoptionPercent": 72
 }
